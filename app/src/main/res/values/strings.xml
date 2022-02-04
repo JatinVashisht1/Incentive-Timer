@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Incentive Timer</string>
+    <string name="add_new_reward">Add new reward</string>
+    <string name="scroll_to_top">scroll to top</string>
+</resources>
